@@ -33,6 +33,6 @@
 18. Designamos una clase privada de usuario, con la URL de nuestra base de datos, damos los parametros del SQL
 ![image](https://user-images.githubusercontent.com/85316345/182620058-9cfb700d-4157-4bee-93b4-3e54310d4b1b.png)
 19. Creamos el main
-20. ![image](https://user-images.githubusercontent.com/85316345/182620260-14887b4b-b350-448d-a9db-2060a57ba37c.png)
+![image](https://user-images.githubusercontent.com/85316345/182620260-14887b4b-b350-448d-a9db-2060a57ba37c.png)
 
 
