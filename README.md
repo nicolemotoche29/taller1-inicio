@@ -28,6 +28,11 @@
 15. ![image](https://user-images.githubusercontent.com/85316345/182619070-9195d41c-4ac6-408a-968c-55140f6ff9bb.png)
 16. Damos funcion al boton OK y el mensaje de alerta de error.
 ![image](https://user-images.githubusercontent.com/85316345/182619279-04093a8e-bb7b-4059-9881-80eea0befad0.png)
+17. Le damos funcion al boton "Cancelar"
+![image](https://user-images.githubusercontent.com/85316345/182619613-6fad8718-87ef-43bc-8a1f-05f225b16d1e.png)
+18. Designamos una clase privada de usuario, con la URL de nuestra base de datos, damos los parametros del SQL
+![image](https://user-images.githubusercontent.com/85316345/182620058-9cfb700d-4157-4bee-93b4-3e54310d4b1b.png)
+19. Creamos el main
+20. ![image](https://user-images.githubusercontent.com/85316345/182620260-14887b4b-b350-448d-a9db-2060a57ba37c.png)
 
-18. ![image](https://user-images.githubusercontent.com/85316345/182619201-94aea5b2-e228-4ff5-a080-57bcd728bc7a.png)
 
