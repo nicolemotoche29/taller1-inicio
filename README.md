@@ -20,4 +20,14 @@
 ![image](https://user-images.githubusercontent.com/85316345/182605831-f96f51b1-bd83-4d01-ac47-ab5fdf39eab2.png)
 9. A la clase le damos una extencion que es JDialog, donde se importa de java.swing*
 ![image](https://user-images.githubusercontent.com/85316345/182606076-63fb465d-b37a-4fdf-bc5d-e7a525b68244.png)
-10.
+10. Hacemos la creacion de el form
+11. ![image](https://user-images.githubusercontent.com/85316345/182618730-b4d89068-8c81-45b5-bba9-16781d51ad59.png)
+12. Establecemos sus propios nombres para no confundirnos
+13. ![image](https://user-images.githubusercontent.com/85316345/182618839-6157d62e-11a4-46e5-9286-7a787054308f.png)
+14. Aqui se hereda del JFrame, designamos un titulo y las medidas
+15. ![image](https://user-images.githubusercontent.com/85316345/182619070-9195d41c-4ac6-408a-968c-55140f6ff9bb.png)
+16. Damos funcion al boton OK y el mensaje de alerta de error.
+![image](https://user-images.githubusercontent.com/85316345/182619279-04093a8e-bb7b-4059-9881-80eea0befad0.png)
+
+18. ![image](https://user-images.githubusercontent.com/85316345/182619201-94aea5b2-e228-4ff5-a080-57bcd728bc7a.png)
+
