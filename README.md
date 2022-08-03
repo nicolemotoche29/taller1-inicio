@@ -16,9 +16,8 @@
 7.Insertamos valores a los campos.
 ![image](https://user-images.githubusercontent.com/85316345/182618260-a65be23c-a527-4405-953d-2c61fd251d50.png)
 ![image](https://user-images.githubusercontent.com/85316345/182618354-85db3488-b5fa-4666-831d-f6e2571bfb7f.png)
-
-
-5. Declaramos la clase publica denominada usuario
+8. Declaramos la clase publica denominada usuario
 ![image](https://user-images.githubusercontent.com/85316345/182605831-f96f51b1-bd83-4d01-ac47-ab5fdf39eab2.png)
-6. A la clase le damos una extencion que es JDialog, donde se importa de java.swing*
+9. A la clase le damos una extencion que es JDialog, donde se importa de java.swing*
 ![image](https://user-images.githubusercontent.com/85316345/182606076-63fb465d-b37a-4fdf-bc5d-e7a525b68244.png)
+10.
