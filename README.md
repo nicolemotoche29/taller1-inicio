@@ -34,5 +34,8 @@
 ![image](https://user-images.githubusercontent.com/85316345/182620058-9cfb700d-4157-4bee-93b4-3e54310d4b1b.png)
 19. Creamos el main
 ![image](https://user-images.githubusercontent.com/85316345/182620260-14887b4b-b350-448d-a9db-2060a57ba37c.png)
-
+20. Asi se ve la pantalla finalizada.
+![image](https://user-images.githubusercontent.com/85316345/182621566-3d1a757f-e42a-431a-9bf5-d1af2048eba6.png)
+21. Si los datos son mal ingresados dara el aviso de error
+![image](https://user-images.githubusercontent.com/85316345/182621320-3ddac7a7-f6e6-45cd-b164-7ce68b03155c.png)
 
